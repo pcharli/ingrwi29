@@ -1,3 +1,9 @@
 body {
     background-color: silver;
 }
+footer {
+    background-color: red;
+    color: white;
+    clear: left;
+    text-align: center;
+}
